@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\ChatServer.csproj", "{644FA15F-4EFB-4FF7-AD3A-E62409A4BCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644FA15F-4EFB-4FF7-AD3A-E62409A4BCF6}.Debug|x86.ActiveCfg = Debug|x86
+		{644FA15F-4EFB-4FF7-AD3A-E62409A4BCF6}.Debug|x86.Build.0 = Debug|x86
+		{644FA15F-4EFB-4FF7-AD3A-E62409A4BCF6}.Release|x86.ActiveCfg = Release|x86
+		{644FA15F-4EFB-4FF7-AD3A-E62409A4BCF6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ChatServer\ChatServer.csproj
+	EndGlobalSection
+EndGlobal
